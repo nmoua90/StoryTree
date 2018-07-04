@@ -1,0 +1,18 @@
+.CodeMirror {
+	border: 1px solid #eee;
+	height: 340px;
+}
+			
+h3{
+	text-align: center;
+}
+	
+body{
+	background-color: #00001a;
+	color: white;
+}
+
+#headerOptions{
+	display: block;
+}
+

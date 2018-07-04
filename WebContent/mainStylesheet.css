@@ -1,0 +1,153 @@
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+body {
+	text-align: center;
+	margin: 0;
+	padding: 0;
+}
+
+title {
+	text-align: center;
+}
+
+button {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	font-family: Georgia;
+	padding: 5px;
+}
+
+.blackButton {
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	font-family: Georgia;
+	padding: 15px;
+	cursor: pointer;
+}
+
+.textWithinBody {
+	position: absolute;
+	top: 40px;
+	width: 1043px;
+	font-family: Georgia;
+}
+
+.body {
+	border-style: solid;
+	border-color: black;
+	position: absolute;
+	top: 214px;
+	width: 1048px;
+	padding: 0;
+	border: 0;
+	left: 300px;
+	height: 606px;
+}
+
+.body {
+	border-style: solid;
+	border-color: black;
+	position: absolute;
+	top: 214px;
+	width: 1048px;
+	padding: 0;
+	border: 0;
+	left: 300px;
+	height: 606px;
+}
+
+#userPanelBG {
+	background:
+		url("https://i.pinimg.com/originals/fa/61/fe/fa61fed7d4e27ff59de2767076ae1c6e.jpg")
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#tutorialsBG {
+	background:
+		url("https://ae01.alicdn.com/kf/HTB1Ii.SKpXXXXcqXFXXq6xXFXXXG/Black-White-And-Red-Beautiful-Serene-Art-By-Shawna-Erback-Landscape-Wall-Art-Oil-Painting-On.jpg_640x640.jpg")
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#uploadGameBG {
+	background:
+		url("https://img00.deviantart.net/c0db/i/2010/036/5/b/super_mario_drawing_by_jojomalfoy.jpg")
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+#sidebar {
+	border: 0;
+	margins: 0;
+	position: absolute;
+	top: 214px;
+	height: 600px;
+	width: 300px;
+	background-color: white;
+	background: linear-gradient(white, black);
+	color: black;
+	border-style: thick;
+	border-color: black;
+}
+
+#sidebarTwo {
+	border: 0;
+	margins: 0;
+	position: absolute;
+	top: 214px;
+	height: 600px;
+	width: 300px;
+	background-color: white;
+	background: linear-gradient(white, black);
+	color: black;
+	border-style: thick;
+	border-color: black;
+}
+
+.absoluteFooter {
+	position: absolute;
+	top: 800px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	border-style: thick;
+	border-color: black;
+}
+
+.regularFooter {
+	padding: 10px;
+	border: 10px;
+	background-color: black;
+	color: white;
+	border-style: thick;
+	border-color: black;
+}
+
+.whiteButton {
+	background-color: white;
+	color: black;
+	border-radius: 20px;
+	border-color: black;
+	font-family: Georgia;
+	padding: 10px;
+}
+
+h3 {
+	font-family: Georgia;
+}

@@ -1,0 +1,76 @@
+BODY{
+	background-image: url("https://i.pinimg.com/736x/19/ae/2b/19ae2bfc7e459bb4470e8d099513b8ee--painting-trees-light-and-shadow.jpg");
+	no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+	color: black;
+	text-align: center;
+	border-radius: 20px;
+}
+
+div.logout{
+	background-color: black;
+	color: white;
+	border-radius: 20px;
+	padding: 0;
+}
+
+.buttons{
+	width:200px;
+	height:30px;
+}
+
+#gameSpace{
+	background-color: black;
+	color: white;
+	font-family: "Verdana, Arial, Geneva";
+	font-size: medium;
+	padding: 20px, 20px, 20px, 20px;
+	border-radius: 20px;
+	border-color: white;
+	border-width: 2px;
+	border-style: solid;
+}
+
+IMG{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	background-color: grey;
+	border-radius: 20px;
+}
+
+H1{
+	font-family: "Verdana";
+	padding: 10px 10px 10px 10px;
+	border: 0px 0px 0px 0px;
+	background-color: black;
+	border-color: black;
+	color: white;
+	border-width: 2px;
+	border-radius: 20px;
+}
+
+P{
+	font-family: "Verdana";
+	padding: 10px 10px 10px 10px;
+	border: 10px 10px 10px 10px;
+	background-color: grey;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 20px;
+	color: black;
+}
+
+button, input{
+	font-family: "Verdana";
+	border-radius: 20px;
+	background-color: black;
+	color: white;
+	padding: 10px 20px 10px 20px;
+	border: 10px 10px 10px 10px;
+}
+
+
